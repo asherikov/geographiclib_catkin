@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>geographiclib_catkin</name>
+    <version>2.2.0</version>
+    <description>geographiclib</description>
+
+    <maintainer email="alexander@sherikov.net">Alexander Sherikov</maintainer>
+
+    <license>MIT</license>
+
+    <buildtool_depend>cmake</buildtool_depend>
+</package>
